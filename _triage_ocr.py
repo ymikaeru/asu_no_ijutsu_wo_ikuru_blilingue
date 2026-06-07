@@ -97,7 +97,7 @@ for path, s in nodes:
         if last and last not in "。」』！？）—…す」":
             f.append(("paragrafo-sem-fim", "…" + parag.strip()[-25:]))
     # 7. padrões de erro conhecidos
-    for m in re.finditer(r"メシ[やゃ](?!か)|言者|仰者|もらた|いただいたかず|だかず|り得ても", t):
+    for m in re.finditer(r"メシ[やゃ](?!か)|(?<![信預証発助宣])言者|(?<!信)仰者|もらた|いただいたかず|り得ても", t):
         f.append(("padrao-conhecido", f"…{t[max(0,m.start()-10):m.end()+10]}…"))
     if f:
         findings.append((path, pg, lines, f))
