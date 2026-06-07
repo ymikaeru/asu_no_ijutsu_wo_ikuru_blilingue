@@ -1,0 +1,6 @@
+# Scans do livro: PDFs grandes (11-72.pdf tem 127MB, acima do limite de 100MB do GitHub)
+# e PNGs de trabalho renderizados. Manter apenas localmente.
+Scans/
+
+# Backup pré-sincronização JA (o histórico do git assume esse papel)
+ashita-no-ijitsu.bilingual.backup.json
