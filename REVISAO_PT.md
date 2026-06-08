@@ -26,36 +26,27 @@ Status: `[ ]` a fazer · `[x]` resolvido · `[~]` descartado (falso positivo)
   - Livro impresso (scan p.250): **昭和18年10月23日** = 23 de **outubro** de 1943.
   - Aplicado: `janeiro` → `outubro` no PT. (JA = 昭和18年10月23日.)
 
+- [ ] **3.1.2** — *2. Jeová Direto e o Intermediário* (p.199) — **A APLICAR (aguarda redação)**
+  - PT diz: *"Creio que foi em meados de **1946**. Fui levado pela polícia…"*
+  - Livro impresso (scan p.199): **昭和20年代の半ば頃** = meados dos anos Showa-20 ≈ **~1950**
+    (não um ano específico; 昭和20年代 = 1945–1954). O OCR estava corrompido (昭利21年代の半は頃).
+  - **Ação proposta:** trocar *"meados de 1946"* → *"por volta de 1950"* (ou a redação que
+    você preferir para 「昭和20年代の半ば頃」). O JA já foi corrigido.
+
 ---
 
-## B. Candidatos a verificar contra o scan
+## B. Candidatos verificados contra o scan — RESOLVIDOS (2026-06-08)
 
-Datas específicas do PT que **não** têm a era correspondente no JA da seção.
-Podem ser erro do PT, ou o JA expressa a data de outra forma (翌年, 西暦, só 年).
-Conferir no scan antes de mexer.
-
-- [ ] **2.3.3** — *3. Oferenda de Arroz* (p.~41) — **suspeita alta**
-  - PT: *"No dia 1º de janeiro de **1952**, Ele comentou…"*
-  - Eras no JA da seção: 昭和19, 21, 25, 26 (nenhuma = 昭和27/1952).
-  - Obs.: a seção vizinha 2.3.4 fala de 「昭和20年の正月、まだ戦争中」 (Ano-Novo de 1945,
-    em plena guerra). Se for a mesma oferenda de arroz, "1952" provavelmente está errado.
-
-- [ ] **2.5.8** — *8. Fundação da Igreja Koyo* (p.~129) — **provável falso positivo**
-  - PT: *"No ano seguinte, em agosto de **1948**…"*
-  - JA tem 昭和22年 (1947). "No ano seguinte" de 1947 = 1948 → o PT pode estar certo
-    (o JA deve dizer 「翌年」). Confirmar só por segurança.
-
-- [ ] **2.5.9** — *9. A Purificação da Sarna* (p.~131)
-  - PT: *"…entrou em purificação de sarna em dezembro de **1946**…"*
-  - Eras no JA: 昭和20, 22, 24 (nenhuma = 昭和21/1946). Conferir o ano real do episódio.
-
-- [ ] **2.6.1** — *1. A Fundação da Igreja* (p.~143)
-  - PT: *"Em 30 de outubro de **1948**, foi fundada a Igreja Miroku…"*
-  - Eras no JA: 昭和21, 22, 24, 25. Data histórica de fundação — conferir contra o livro.
-
-- [ ] **3.1.2** — *2. Jeová Direto e o Intermediário* (p.~194)
-  - PT: *"Creio que foi em meados de **1946**. Fui levado pela polícia…"*
-  - Eras no JA: 昭和19 (1944), 昭和3. Episódio da prisão — conferir o ano.
+- [~] **2.3.3** — *Oferenda de Arroz* — **falso positivo (PT correto)**
+  - JA: 「翌27年元旦」 = 昭和27年 = 1º de janeiro de **1952**. PT certo. (O detector não lê 「翌N年」.)
+- [~] **2.5.8** — *Fundação da Igreja Koyo* — **falso positivo (PT correto)**
+  - JA: 「翌23年8月」 = 昭和23年 = agosto de **1948**. PT certo.
+- [~] **2.5.9** — *A Purificação da Sarna* — **PT correto; JA tinha erro de OCR (corrigido)**
+  - JA dizia 「昭和2l年」 (L minúsculo) = 昭和21年 = **1946**. PT certo. Corrigido o JA
+    (昭和21年; 弥癬/癬 → 疥癬, confirmado no scan p.131).
+- [~] **2.6.1** — *A Fundação da Igreja* — **falso positivo (PT correto)**
+  - JA: 「翌23年10月30日」 = 昭和23年 = **30 de outubro de 1948**. PT certo.
+- [→] **3.1.2** — era **erro real de PT**; movido para a Seção A acima.
 
 ---
 
