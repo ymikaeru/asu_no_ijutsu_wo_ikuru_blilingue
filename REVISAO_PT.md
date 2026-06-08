@@ -26,12 +26,12 @@ Status: `[ ]` a fazer · `[x]` resolvido · `[~]` descartado (falso positivo)
   - Livro impresso (scan p.250): **昭和18年10月23日** = 23 de **outubro** de 1943.
   - Aplicado: `janeiro` → `outubro` no PT. (JA = 昭和18年10月23日.)
 
-- [ ] **3.1.2** — *2. Jeová Direto e o Intermediário* (p.199) — **A APLICAR (aguarda redação)**
-  - PT diz: *"Creio que foi em meados de **1946**. Fui levado pela polícia…"*
-  - Livro impresso (scan p.199): **昭和20年代の半ば頃** = meados dos anos Showa-20 ≈ **~1950**
-    (não um ano específico; 昭和20年代 = 1945–1954). O OCR estava corrompido (昭利21年代の半は頃).
-  - **Ação proposta:** trocar *"meados de 1946"* → *"por volta de 1950"* (ou a redação que
-    você preferir para 「昭和20年代の半ば頃」). O JA já foi corrigido.
+- [x] **3.1.2** — *2. Jeová Direto e o Intermediário* (p.199) — **CORRIGIDO 2026-06-08**
+  - PT dizia: *"Creio que foi em meados de **1946**. Fui levado pela polícia…"*
+  - Livro impresso (scan p.199): **昭和20年代の半ば頃** = meados dos anos Showa-20 (1945–1954).
+    O OCR estava corrompido (昭利21年代の半は頃).
+  - Aplicado: *"em meados de 1946"* → *"em meados da década de 1950"* (escolha do autor).
+    O JA foi corrigido para 昭和20年代の半ば頃.
 
 ---
 
