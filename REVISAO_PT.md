@@ -21,6 +21,12 @@ Status: `[ ]` a fazer · `[x]` resolvido · `[~]` descartado (falso positivo)
   - Livro impresso (scan p.64, dígito conferido em zoom): **昭和24年 = 1949**.
   - **Ação:** trocar `1952` → `1949` no PT. (O JA já foi corrigido para 昭和24年.)
 
+- [ ] **3.4.4** — *4. Geração e Eliminação de Nuvens Espirituais* (p.250)
+  - PT diz: *"(\"Vida e Morte\", 23 de **janeiro** de 1943)"*
+  - Livro impresso (scan p.250): **昭和18年10月23日** = 23 de **outubro** de 1943.
+  - **Ação:** trocar `janeiro` → `outubro` no PT (ano 1943 e dia 23 estão certos).
+    (O JA já foi corrigido para 昭和18年10月23日.)
+
 ---
 
 ## B. Candidatos a verificar contra o scan
