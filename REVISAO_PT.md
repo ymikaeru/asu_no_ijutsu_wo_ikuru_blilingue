@@ -28,10 +28,10 @@ Status: `[ ]` a fazer · `[x]` resolvido · `[~]` descartado (falso positivo)
 
 - [x] **3.1.2** — *2. Jeová Direto e o Intermediário* (p.199) — **CORRIGIDO 2026-06-08**
   - PT dizia: *"Creio que foi em meados de **1946**. Fui levado pela polícia…"*
-  - Livro impresso (scan p.199): **昭和20年代の半ば頃** = meados dos anos Showa-20 (1945–1954).
+  - Livro impresso (scan p.199, confirmado em zoom): **昭和20年代の半ば頃**.
+    昭和20年 = **1945** (Showa começa em 1926); 昭和20年代 = 1945–1954; o meio ≈ **~1950**.
     O OCR estava corrompido (昭利21年代の半は頃).
-  - Aplicado: *"em meados de 1946"* → *"em meados da década de 1950"* (escolha do autor).
-    O JA foi corrigido para 昭和20年代の半ば頃.
+  - Aplicado: *"em meados de 1946"* → *"por volta de 1950"*. O JA foi corrigido para 昭和20年代の半ば頃.
 
 ---
 
