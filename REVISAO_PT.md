@@ -31,7 +31,8 @@ Status: `[ ]` a fazer · `[x]` resolvido · `[~]` descartado (falso positivo)
   - Livro impresso (scan p.199, confirmado em zoom): **昭和20年代の半ば頃**.
     昭和20年 = **1945** (Showa começa em 1926); 昭和20年代 = 1945–1954; o meio ≈ **~1950**.
     O OCR estava corrompido (昭利21年代の半は頃).
-  - Aplicado: *"em meados de 1946"* → *"por volta de 1950"*. O JA foi corrigido para 昭和20年代の半ば頃.
+  - Aplicado: *"em meados de 1946"* → *"por volta de meados da década de 20 da Era Showa
+    (aproximadamente 1950)"*. O JA foi corrigido para 昭和20年代の半ば頃.
 
 ---
 
